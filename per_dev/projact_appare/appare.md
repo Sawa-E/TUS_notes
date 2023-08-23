@@ -10,7 +10,8 @@
 > 6. 藤宮 めい
 > 7. 藍井 すず
 ### YouTubeチャンネル
-> [!youtube] https://www.youtube.com/channel/UCPL42OsAbFKs5M1QC_AHexg
+> [!youtube] Appare! Official
+> https://www.youtube.com/channel/UCPL42OsAbFKs5M1QC_AHexg
 
 > [!point] 朝比奈 れい
 > - membercolor : red
