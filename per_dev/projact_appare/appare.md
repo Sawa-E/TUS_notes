@@ -9,11 +9,13 @@
 > 5. 橋本 あみ
 > 6. 藤宮 めい
 > 7. 藍井 すず
+### YouTubeチャンネル
+> [!youtube] https://www.youtube.com/channel/UCPL42OsAbFKs5M1QC_AHexg
 
 > [!point] 朝比奈 れい
 > - membercolor : red
 > - birth : 2000-03-17
 > - height : 154cm
 > - hobby ラーメン巡り、ドライブ、映画鑑賞
-> - その他特徴など 
+> - その他特徴など
 > > - あ
