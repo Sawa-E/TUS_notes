@@ -11,7 +11,9 @@
 > 7. 藍井 すず
 ### YouTubeチャンネル
 > [!youtube] Appare! Official
-> https://www.youtube.com/channel/UCPL42OsAbFKs5M1QC_AHexg
+> https://www.youtube.com/channel/UCPL42OsAbFKs5M1QC_AHexg}
+### Twitter
+### ラジオ
 
 > [!point] 朝比奈 れい
 > - membercolor : red
@@ -19,4 +21,7 @@
 > - height : 154cm
 > - hobby ラーメン巡り、ドライブ、映画鑑賞
 > - その他特徴など
-> > - あ
+> > - Twitterで毎朝おはさん！
+> > - 2023/08/27のインターネットサイン会では、変顔をしていた。
+> > - 初期メンバーの一人
+> 
