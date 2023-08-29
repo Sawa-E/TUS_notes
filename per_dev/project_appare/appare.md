@@ -22,6 +22,62 @@
 > - hobby ラーメン巡り、ドライブ、映画鑑賞
 > - その他特徴など
 > > - Twitterで毎朝おはさん！
-> > - 2023/08/27のインターネットサイン会では、変顔をしていた。
+> > - 2023-08-27のインターネットサイン会では、変顔をしていた。
 > > - 初期メンバーの一人
-> 
+
+
+> [!point] 七瀬 れあ
+> - membercolor : yellow
+> - birth : 2003-03-29
+> - height : 152cm
+> - hobby : けん玉
+> - その他特徴など
+> >
+
+
+> [!point] 永堀 ゆめ
+> - membercolor : mintgreen
+> - birth : 2001-11-06
+> - height : 147cm
+> - hobby : 電車に乗ること、歩行
+> - その他特徴など
+> >　メンバーの中で一番食いしん坊とされている。
+> >
+
+
+> [!point] 工藤 のか
+> - membercolor : purple
+> - birth : 2003-02-20
+> - height : 168cm
+> - hobby : お絵描き、アニメ視聴
+> - その他特徴など
+> >
+
+
+> [!point] 橋本 あみ
+> - membercolor : pink
+> - birth : 2000-11-24
+> - height : 153cm
+> - hobby : 寝ること、お洋服を買うこと
+> - その他特徴など
+> >
+
+
+> [!point] 藤宮 めい
+> - membercolor : white
+> - birth : 2001-09-27
+> - height : 149cm
+> - hobby : 食べること
+> - その他特徴など
+> >
+
+
+> [!point] 藍井 すず
+> - membercolor : blue
+> - birth : 2001-12-07
+> - height : 156cm
+> - hobby : ウィンドウショッピング
+> - その他特徴など
+> > 声量がとても大きい。
+> >
+
