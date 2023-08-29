@@ -9,11 +9,14 @@
 > 5. 橋本 あみ
 > 6. 藤宮 めい
 > 7. 藍井 すず
-### YouTubeチャンネル
+### YouTubeチャンネル(編集:藍井すず)
 > [!youtube] Appare! Official
 > https://www.youtube.com/channel/UCPL42OsAbFKs5M1QC_AHexg}
 ### Twitter
 ### ラジオ
+
+> [!point] Appare!
+> - とても仲がいい。
 
 > [!point] 朝比奈 れい
 > - membercolor : red
