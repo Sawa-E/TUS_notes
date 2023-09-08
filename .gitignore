@@ -19,3 +19,6 @@
 .DS_Store
 
 .export/ignore/**/*
+
+# private folder
+per_dev/private/
